@@ -3,12 +3,12 @@
 config/*.yml
 # db/schema.rb
 log/*
-tmp/**/*
 nbproject
-tmp
+tmp/*
 autotest
 coverage/*
 .idea
 public/stylesheets/all.css
 public/javascripts/all.js
-
+.DS_Store
+.rvmrc
