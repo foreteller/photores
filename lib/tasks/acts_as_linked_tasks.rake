@@ -1,0 +1,1 @@
+# require File.dirname(__FILE__) + '/../../vendor/plugins/acts_as_linked/tasks/acts_as_linked_tasks'
