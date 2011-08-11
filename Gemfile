@@ -7,7 +7,7 @@ gem 'rails', '3.0.7'
 # gem 'pg'
 gem 'mysql2'
 
-gem 'haml', '>= 3.0.24'
+# gem 'haml', '>= 3.0.24'
 
 gem 'jammit'
 gem 'thinking-sphinx', '>= 2.0.5', :require => 'thinking_sphinx'

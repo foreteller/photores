@@ -18,7 +18,7 @@ module Photores
     # -- all .rb files in that directory are automatically loaded.
     config.generators do |g|
       g.orm              :active_record
-      g.template_engine  :haml
+      # g.template_engine  :haml
       g.test_framework   :rspec, :fixture => true, :integration_tool => false, :routes => true, :view_specs => false
       g.integration_tool :rspec
     end
