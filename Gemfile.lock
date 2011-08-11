@@ -59,9 +59,9 @@ GEM
       treetop (~> 1.4.8)
     memcache-client (1.8.5)
     mime-types (1.16)
+    mysql2 (0.2.7)
     nokogiri (1.4.2)
     open4 (1.0.1)
-    pg (0.11.0)
     polyglot (0.3.1)
     rack (1.2.3)
     rack-mount (0.6.14)
@@ -119,8 +119,8 @@ DEPENDENCIES
   hpricot
   jammit
   memcache-client
+  mysql2
   nokogiri (= 1.4.2)
-  pg
   rails (= 3.0.7)
   rmagick (= 2.13.1)
   rspec

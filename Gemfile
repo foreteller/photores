@@ -4,7 +4,8 @@ source 'http://gems.rubyforge.org'
 
 gem 'rails', '3.0.7'
 
-gem 'pg'
+# gem 'pg'
+gem 'mysql2'
 
 gem 'haml', '>= 3.0.24'
 
